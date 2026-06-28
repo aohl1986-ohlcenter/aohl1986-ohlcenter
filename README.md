@@ -1,6 +1,6 @@
 # Hi, ich bin Alexander Ohl 👋
 
-**Senior Web Developer, IT-Consultant & Gründer von [Pragma-Code](https://www.pragma-code.de)**
+**Senior Web Developer, IT-Consultant & Gründer von [Pragma-Code](https://www.pragma-code.de) ([Pragma-Code-LLC](https://github.com/Pragma-Code-LLC))**
 
 Ich helfe mittelständischen Unternehmen und Startups im DACH-Raum, durch modernste Webtechnologien, maßgeschneiderte KI-Automatisierungen und performante E-Commerce-Systeme nachhaltig zu wachsen. Mein Fokus liegt auf robuster Software-Architektur und messbarem geschäftlichem Erfolg.
 
@@ -48,4 +48,4 @@ Ich helfe mittelständischen Unternehmen und Startups im DACH-Raum, durch modern
 
 * 🌐 **Website**: [pragma-code.de](https://www.pragma-code.de)
 * ✉️ **E-Mail**: [info@pragma-code.de](mailto:info@pragma-code.de)
-* 💼 **LinkedIn**: [Alexander Ohl](https://www.linkedin.com/in/alexander-ohl-pragma-code) (oder direkt über Pragma-Code kontaktieren)
+* 💼 **LinkedIn**: [Alexander Ohl](https://www.linkedin.com/in/alexander-ohl/)
