@@ -1,3 +1,5 @@
+![Pragma Code Banner](./banner.jpg)
+
 # Hi, ich bin Alexander Ohl 👋
 
 **Senior Web Developer, IT-Consultant & Gründer von [Pragma-Code](https://www.pragma-code.de) ([Pragma-Code-LLC](https://github.com/Pragma-Code-LLC))**
