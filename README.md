@@ -37,12 +37,10 @@ Ich helfe mittelständischen Unternehmen und Startups im DACH-Raum, durch modern
 
 ---
 
-### 📈 GitHub Statistiken
+### 🚀 Ausgewählte Projekte
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aohl1986-ohlcenter&show_icons=true&theme=vue-dark&bg_color=232240&title_color=ffffff&icon_color=ffcc00&text_color=e0e0e0" alt="Alexanders GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aohl1986-ohlcenter&layout=compact&theme=vue-dark&bg_color=232240&title_color=ffffff&icon_color=ffcc00&text_color=e0e0e0" alt="Top Languages" height="180" />
-</p>
+* 📊 **[Entity-Tracker](https://tracker.pragma-code.de)** — Monitoring-Dashboard für Google-Rankings und Zitierungen in KI-Antworten (SERP- & AI-Citation-Tracking). Next.js 15, TypeScript, Drizzle ORM, Neon Postgres, Vercel. *(Kundenprojekt mit Login — Demo gern auf Anfrage)*
+* 🌐 **[jens-langkammer.de](https://jens-langkammer.de)** — Entity-SEO- & Personal-Branding-Hub, [Quellcode hier auf GitHub](https://github.com/aohl1986-ohlcenter/jens-langkammer-hub): JSON-LD Entity-Graph, DSGVO-konforme Click-to-Load-Embeds, PageSpeed-optimiert.
 
 ---
 
