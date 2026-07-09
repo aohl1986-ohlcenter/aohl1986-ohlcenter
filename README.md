@@ -39,6 +39,7 @@ Ich helfe mittelständischen Unternehmen und Startups im DACH-Raum, durch modern
 
 ### 🚀 Ausgewählte Projekte
 
+* 🧑‍💻 **[alexander-ohl.com](https://alexander-ohl.com)** — Meine persönliche Brand-Landingpage, [Quellcode hier auf GitHub](https://github.com/aohl1986-ohlcenter/alexander-ohl-landingpage): Astro 5, Pragma-Code-Design-System, JSON-LD Entity-Graph, zweisprachig (DE/EN), MCP-Tool für AI-Agenten, Cloudflare Pages.
 * 📊 **[Entity-Tracker](https://tracker.pragma-code.de)** — Monitoring-Dashboard für Google-Rankings und Zitierungen in KI-Antworten (SERP- & AI-Citation-Tracking). Next.js 15, TypeScript, Drizzle ORM, Neon Postgres, Vercel. *(Kundenprojekt mit Login — Demo gern auf Anfrage)*
 * 🌐 **[jens-langkammer.de](https://jens-langkammer.de)** — Entity-SEO- & Personal-Branding-Hub, [Quellcode hier auf GitHub](https://github.com/aohl1986-ohlcenter/jens-langkammer-hub): JSON-LD Entity-Graph, DSGVO-konforme Click-to-Load-Embeds, PageSpeed-optimiert.
 * 🚚 **[esentrans.de](https://www.esentrans.de)** — Local-SEO für ein Umzugsunternehmen: 173 Städte-Landingpages auf WordPress plus eigenentwickeltes Plugin (PHP) für automatisches Schema.org-Markup (MovingCompany/LocalBusiness), Städte-Interlinking und Google-Indexing-API-Automatisierung. *(Kundenprojekt, Code proprietär)*
@@ -48,6 +49,7 @@ Ich helfe mittelständischen Unternehmen und Startups im DACH-Raum, durch modern
 
 ### 📞 Lass uns vernetzen!
 
-* 🌐 **Website**: [pragma-code.de](https://www.pragma-code.de)
+* 🧑‍💻 **Persönliche Seite**: [alexander-ohl.com](https://alexander-ohl.com)
+* 🌐 **Unternehmen**: [pragma-code.de](https://www.pragma-code.de)
 * ✉️ **E-Mail**: [info@pragma-code.de](mailto:info@pragma-code.de)
 * 💼 **LinkedIn**: [Alexander Ohl](https://www.linkedin.com/in/alexander-ohl/)
