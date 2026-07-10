@@ -1,4 +1,4 @@
-![Pragma Code Banner](./banner.png)
+![Pragma Code Banner](./banner.webp)
 
 # Hi, ich bin Alexander Ohl 👋
 
